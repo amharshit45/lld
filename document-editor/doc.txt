@@ -1,0 +1,4 @@
+Hello, I am Harshit.
+I am trying to learn OOPs and LLD.
+[Image: img.jpg]
+	This is an image of me crying.
